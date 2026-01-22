@@ -9,6 +9,15 @@
       "image": "/images/chatgpt-thumb.jpg",
       "link": "https://www.youtube.com/",
       "badge": "عربي"
+    },
+    {
+      "featured": false,
+      "id": "بللاىبلالل",
+      "title": "بيلبل",
+      "description": "بلشبلبيسلبيسل",
+      "image": "/images/chatgpt-thumb.jpg",
+      "link": "https://www.youtube.com/",
+      "badge": "وحششش"
     }
   ]
 }
